@@ -1,4 +1,2 @@
 #!/bin/bash
-# Displays BREATH to the power LOVE
-
 echo $((BREATH ** LOVE))

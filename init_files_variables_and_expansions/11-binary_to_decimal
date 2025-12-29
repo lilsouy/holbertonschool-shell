@@ -1,4 +1,2 @@
 #!/bin/bash
-# Converts BINARY (base 2) to decimal
-
 echo $((2#$BINARY))
