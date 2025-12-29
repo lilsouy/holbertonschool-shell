@@ -1,0 +1,4 @@
+#!/bin/bash
+# Creates a global variable BEST
+
+export BEST="School"

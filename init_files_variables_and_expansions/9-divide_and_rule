@@ -1,0 +1,4 @@
+#!/bin/bash
+# Divides POWER by DIVIDE and prints the result
+
+echo $((POWER / DIVIDE))

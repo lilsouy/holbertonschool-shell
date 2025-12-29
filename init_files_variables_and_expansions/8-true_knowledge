@@ -1,0 +1,4 @@
+#!/bin/bash
+# Adds 128 to TRUEKNOWLEDGE and prints the result
+
+echo $((128 + TRUEKNOWLEDGE))

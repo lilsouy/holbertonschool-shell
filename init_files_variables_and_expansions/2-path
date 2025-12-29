@@ -1,0 +1,4 @@
+#!/bin/bash
+# Adds /action to the PATH
+
+export PATH="$PATH:/action"

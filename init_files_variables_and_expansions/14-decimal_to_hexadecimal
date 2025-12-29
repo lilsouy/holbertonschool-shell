@@ -1,0 +1,4 @@
+#!/bin/bash
+# Converts DECIMAL to hexadecimal
+
+printf "%x\n" "$DECIMAL"
